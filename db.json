@@ -1,0 +1,24 @@
+{
+  "houses": [
+    {
+      "id": "1",
+      "name": "Alphaville | Campinas",
+      "description": "Casa à venda no Alphaville no condomínio Alphaville Campinas",
+      "metragem": "468,00",
+      "price": "15.000.000,00",
+      "rooms": "4",
+      "parking": "4",
+      "img": "https://cdn.imoview.com.br/imovit/Imoveis/5031/d_hugi2mox4twd-2lkta-wyh8khv8iphx-nsfhnh4fov41wheq9zusjaqgtjy4fa9lyj_rmpo2361e51wd_oxqer5fw1l-gi85akybl2fleplsiw1920-h1080?1722041275"
+    },
+    {
+      "id": "2",
+      "name": "Alphaville | Campinas",
+      "description": "Casa à venda no Alphaville no condomínio Alphaville Campinas.",
+      "metragem": "424,18",
+      "price": "3.750.000,00",
+      "rooms": "4",
+      "parking": "4",
+      "img": "https://cdn.imoview.com.br/imovit/Imoveis/5054/ii8xgpkqpwiq0_ro05512wsbc_514qvsmutf3yo9084vdcz64b7fn1hmxcoujgu1sdiwwl3iqwkwv8hueyesnxzm9xffuiqn8aghuh0dw5fxo-mw1920-h1080?1722042826"
+    }
+  ]
+}
